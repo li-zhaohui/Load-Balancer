@@ -1,7 +1,7 @@
 Load Balancer
 -------------
 
-![Load-Balancer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodeburst.io%2Fload-balancers-an-analogy-cc64d9430db0&psig=AOvVaw1sc6dvy4p5wORE5oTXK9yH&ust=1621835851154000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD5-tyO3_ACFQAAAAAdAAAAABAI)
+![Load-Balancer](https://github.com/IT-Prince/Load-Balancer/blob/main/image.jpg?raw=true)
 
 Executing order:
 	server1
